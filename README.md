@@ -9,7 +9,7 @@ Road accidents in Thailand can occur anywhere, at any time, and involve people o
 ## Methodology of this project
 1. Begin by performing data understanding and cleaning
   - ex. Handle missing values ​​by deleting or adding appropriate values.
-2. When we have the information ready We must analyze to find in-depth information
-  - ex. Relationships of variables, appearing Patterns and calculation of statistics such as frequency, average, etc.
-3. When we finished analyzing the data, It is important to make your data easy for others to understand. Data Visualization is to create various graphs or charts to make it easier for us to understand in-depth information. And you should choose a graph that is appropriate for the data set being analyzed.
+2. When we have the information ready we must analyze to find in-depth information
+  - ex. Relationships of variables, appearing patterns and calculation of statistics such as frequency, average, etc.
+3. When we finished analyzing the data, it is important to make your data easy for others to understand. Data Visualization is to create various graphs or charts to make it easier for us to understand in-depth information. And you should choose a graph that is appropriate for the data set being analyzed.
   - ex. If you want to know what is the cause of most accidents. You should use bar graphs because bar graphs show the frequency of qualitative data.
