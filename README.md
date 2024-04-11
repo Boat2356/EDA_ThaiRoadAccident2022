@@ -4,7 +4,7 @@ Road accidents in Thailand can occur anywhere, at any time, and involve people o
 ## Objectives
 - To analyze the relationship between various variables using the Exploratory data analysis method.
 ## The scope of the data
-- Data about road accidents in Thailand in 2022 was sourced from [https://datagov.mot.go.th/](https://datagov.mot.go.th/)
+- Data about road accidents in Thailand in 2022 was sourced from [https://datagov.mot.go.th/](https://datagov.mot.go.th/dataset/roadaccident/resource/94b10b47-7bda-4f11-b6ce-e45c447c8dcd?inner_span=True&activity_id=aa76337a-1f33-407d-9f83-da3a9debc826)
 - There are 37 columns and 21032 rows in the raw data that was used.
 ## Methodology of this project
 1. Begin by performing data understanding and cleaning
