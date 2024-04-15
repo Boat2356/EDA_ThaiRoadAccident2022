@@ -66,21 +66,21 @@ To analyze the relationships between variables using Exploratory Data Analysis (
   - ex. Handle missing values ​​by deleting or adding appropriate values.
     
 <p align="center">
-  <img width="1114" height="619" src="https://github.com/Boat2356/EDA_ThaiRoadAccident2022/assets/140761543/dd632844-8224-4bd2-baab-a372798ed5d1">
+  <img width="650" height="456" src="https://github.com/Boat2356/EDA_ThaiRoadAccident2022/assets/140761543/dd632844-8224-4bd2-baab-a372798ed5d1">
 </p>
 
 2. When we have the information ready we must analyze it to find in-depth information
   - ex. Relationships of variables, appearing patterns, and calculation of statistics such as frequency, average, etc.
 
 <p align="center">
-  <img width="1391" height="400" src="https://github.com/Boat2356/EDA_ThaiRoadAccident2022/assets/140761543/5271d42d-43c0-4200-94bb-113cabd91d46">
+  <img width="1491" height="400" src="https://github.com/Boat2356/EDA_ThaiRoadAccident2022/assets/140761543/5271d42d-43c0-4200-94bb-113cabd91d46">
 </p>
     
 3. When we finish analyzing the data, it is important to make your data easy for others to understand. Data Visualization is to creation of various graphs or charts to make it easier for us to understand in-depth information. You should choose a graph that is appropriate for the data set being analyzed.
   - ex. To determine the distribution of accident characteristics, such as rollovers, rear-end collisions, and others, a bar graph is the most appropriate choice. This is because bar graphs effectively visualize the frequency of distinct values (categories) within a qualitative dataset.
 
 <p align="center">
-  <img width="1244" height="643" src="https://github.com/Boat2356/EDA_ThaiRoadAccident2022/assets/140761543/2264b87d-aa1a-4493-af24-6e206f5f5c77">
+  <img width="650" height="456" src="https://github.com/Boat2356/EDA_ThaiRoadAccident2022/assets/140761543/2264b87d-aa1a-4493-af24-6e206f5f5c77">
 </p>
 
 ## Conclusion
